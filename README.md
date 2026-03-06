@@ -7,7 +7,7 @@ This app displays cat photos with basic HTML structure and elements.
 - Displays cat photos using HTML image tags
 - Includes headings, paragraphs, and lists
 - Demonstrates basic HTML structure and semantic elements
-- 
+
 ## How to Run
 1. Clone this repository:
    ```bash
