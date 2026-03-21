@@ -11,4 +11,4 @@ This app displays cat photos with basic HTML structure and elements.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/m-kumar-student/cat-photo-app.git
+   git clone https://github.com/MukundKumarDev/cat-photo-app.git
